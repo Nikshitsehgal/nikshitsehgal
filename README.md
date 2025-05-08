@@ -24,11 +24,14 @@ Welcome to my corner of GitHub! I’m a passionate **Software Developer** who lo
 
 ## 🚀 Some Cool Projects
 
-### [🛒 eCommerce Platform](https://ambhos.vercel.app)
-A full-featured eCommerce site for sports products, built on the **MERN stack** with seamless payment and shipping integration. It’s fast, reliable, and made with love for UX!
+### [🛒 eCommerce Platform](https://briocart.vercel.app)
+A full-featured eCommerce site for selling products, built on the **MERN stack** with seamless payment and shipping integration. It’s fast, reliable, and made with love for UX!
 
 ### [👤 Face Recognition App](https://facerecognition-iota.vercel.app)
 A React-based web app that uses machine learning to detect faces in images, deployed on **Vercel**. Give it a try – it’s fast and fun!
+
+### [👤 Air Ticket Booking System](https://air-ticket-booking-app-lovat.vercel.app/)
+A react-redux based platform for booking air tickets. Designed and developed a fully-functional website using React, Redux, Node.js, and json-server.
 
 ### [🛠️ Axeem Lab Client Site](https://axeemlab.com)
 Built for a client using **React, Node.js,** and **Firebase**, this site combines quoting functionality with a sleek, interactive UI.
